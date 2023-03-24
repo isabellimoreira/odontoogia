@@ -1,0 +1,74 @@
+Itens necessários:
+NavBar com 3 botões: início, serviço e contato; FEITO
+Slide de fotos: 6 fotos; FEITO
+História (texto e foto(600x400)); FEITO
+Serviços 6 card's (bootstrap, apagar o h5, texto que tem); FEITO
+Formulário. FEITO
+
+Tamanhos (pixcels):
+Logo 80x80; FEITO
+Slide de fotos 1400x500; FEITO
+Card's 1280x720. FEITO
+
+Tamanho card (1 foto): 
+Foto 1920x500.
+
+Nav
+Abre um container, cada item deve ter uma row (linha), dentro de cada row deve conter uma col
+
+Clínico geral
+A clínica geral é a área mais abrangente da odontologia e a que você deve visitar com mais frequência. É dentro dela que são realizados os tratamentos mais simples, como consultas preventivas, limpezas, remoção de tártaro, entre outros procedimentos.
+
+É importante realizar consultas de rotina a cada seis meses para que o profissional avalie a saúde de sua boca e verifique a necessidade de outros tratamentos. Em uma consulta com o clínico geral você pode realizar os seguintes procedimentos:
+
+restaurações;
+aplicação de flúor;
+tratamentos de canal;
+tratamento de bruxismo;
+cirurgias simples, como remoções de dentes e enxertos ósseos;
+aplicação de selante.
+
+
+Ortodontia
+A ortodontia é outra área muito popular dentro da odontologia. Por meio do uso de aparelhos dentários, os pacientes de todas as idades podem corrigir o posicionamento dos dentes e ossos faciais, tornando o sorriso mais harmônico e funcional.
+É indicado para restabelecer a oclusão dentária, solucionando problemas de mastigação, deglutição, fala e articulação temporomandibular.
+A duração do tratamento ortodôntico varia conforme as necessidades do paciente, podendo levar de poucos meses até 3 anos. O tipo de aparelho indicado também varia em cada caso, mas os mais comuns são:
+- aparelho fixo: os bráquetes são colados na superfície dos dentes com resina e ligados por um fio metálico;
+aparelho móvel: são encaixados na boca e podem ser removidos, tanto pelo paciente quanto pelo dentista.
+
+
+Odontopediatria
+As crianças também precisam de acompanhamento dentário e essa é a função da odontopediatria. Mesmo durante a dentição de leite, elas já estão suscetíveis a cáries e outros problemas, por isso é preciso visitar um profissional especializado com regularidade.
+A primeira visita deve acontecer logo após o nascimento do primeiro dentinho. É nesse momento em que o profissional poderá orientar os pais sobre a limpeza correta, o tipo de escova e como deve ser a alimentação.
+Para crianças mais velhas, as consultas de rotina são indicadas a cada 6 meses e é importante procurar o dentista sempre que a criança relatar dores e sangramentos ou nos casos de dentes escuros, quebrados, tortos ou afastados.
+
+Implantodontia
+O tratamento com implante é indicado para substituir dentes faltantes na boca de forma muito eficiente. Ele é realizado por meio da implantação de um cilindro de titânio no osso maxilar, substituindo a raiz do dente ausente. Em seguida, é colocada a prótese feita sob medida, fixada no implante por meio de parafusos.
+Os implantes são indicados nos casos em que os outros dentes não estão comprometidos, auxiliando na recuperação da mastigação e fala, além de melhorar a estética, trazendo uma maior autoestima ao paciente.
+
+Prótese dentária
+Essa é a área da odontologia responsável pela reconstrução e reposição dos dentes danificados ou perdidos. O uso de próteses pode influenciar positivamente a mastigação, dicção e estética do paciente, além de proteger as funções articulares.
+O tratamento pode ser realizado em casos de perdas parciais ou totais dos dentes. A prótese parcial é indicada quando o paciente ainda tem dentes saudáveis e precisa apenas repor as unidades faltantes. Já no caso da prótese total, é feita a reposição de toda a arcada dentária. Existem dois tipos de tratamentos, são eles:
+prótese removível: pode ser retirada para higienização;
+prótese fixa: é fixada ou encaixada em implantes ou dentes naturais e não pode ser removida pelo paciente.
+
+Periodontia
+A periodontia é a área responsável pela prevenção e pelo tratamento de tecidos e estruturas de sustentação dos dentes, ou seja, a gengiva e o osso. Os problemas mais comuns tratados por essa especialidade são a gengivite e a periodontite, que, caso negligenciadas, podem levar até mesmo à perda dos dentes.
+O procedimento realizado consiste na raspagem e no alisamento das raízes do dente para remoção de placas bacterianas. Além disso, o profissional também deve auxiliar o paciente na prevenção de problemas nessa região, alertando sobre como realizar a higienização correta com escova e fio dental.
+
+Dentística
+Também conhecida como odontologia estética, a dentística é a área responsável por proporcionar ao paciente um sorriso mais harmonioso, com dentes brancos e alinhados.
+Muitas pessoas acabam deixando essa área de lado por acreditar que os custos são muito altos, contudo, a tecnologia por trás dos procedimentos estéticos já possibilita que esse tipo de tratamento seja acessível para todos.
+Entre os tratamentos mais conhecidos da área estão o clareamento dentário e as facetas de porcelana, ou lentes de contato.
+
+Clareamento dentário
+São utilizados agentes clareadores para recuperar a cor original dos dentes, transformando a estética do paciente e auxiliando muito a autoestima. Pode ser realizado de duas formas, em consultório ou em casa. O método realizado em consultório é mais potente e feito por meio de lasers e luz alógena.
+Já o método realizado em casa é feito com o uso de gel clareador aplicado em uma moldeira, devendo ser supervisionado pelo profissional. Enquanto o clareamento por laser é mais rápido e realizado em apenas uma sessão, o método caseiro é mais demorado e exige visitas periódicas ao consultório.
+
+Facetas de porcelana ou lentes de contato
+Esse procedimento é um grande avanço tecnológico na área e permite corrigir imperfeições por meio da confecção de lâminas personalizadas que são cimentadas aos dentes.
+A técnica é utilizada para correção de manchas, desgastes ou afastamentos e harmoniza o sorriso, corrigindo o formato, o tamanho e a curvatura dos dentes.
+A odontologia vem se beneficiando com os avanços tecnológicos e, graças a eles, é possível que os profissionais na área possam se especializar e prestar um atendimento completo e eficaz nos mais variados tipos de tratamento.
+
+
+
